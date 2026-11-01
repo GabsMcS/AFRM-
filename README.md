@@ -28,7 +28,7 @@ The reserve represents the 30-minute final reserve fuel requirement for turbine-
 | Item | Version |
 | --- | --- |
 | Operating system | Windows 10 or 11, x64 |
-| IDE | Visual Studio 2022 (Community, Professional or Enterprise) |
+| IDE | Visual Studio 2026 (Community, Professional or Enterprise) |
 | Workload | Desktop development with C++ |
 | Compiler | MSVC v143 [CONFIRM: version from `cl /Bv`] |
 | Windows SDK | [CONFIRM: 10.0.x] |
